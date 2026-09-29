@@ -1,0 +1,32 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-oopbuy-search.oopbuyProductSearchScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Sales",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-oopbuy-search#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-oopbuy-search#readme"
+			}
+		]
+	},
+	"alias": [
+		"oopbuy",
+		"1688",
+		"taobao",
+		"china",
+		"buying agent",
+		"products",
+		"scraper",
+		"apify",
+		"scrapeunblocker"
+	]
+}
